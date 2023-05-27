@@ -1,0 +1,10 @@
+Variable,Explanation
+Index,Ticker symbol for indexes
+Date,Date of observation
+Open,Opening price
+High,Highest price during trading day
+Low,Lowest price during trading day
+Close,Close price
+Adj Close,Closing price adjusted for dividends and stock splits
+Volume,Number of shares traded during trading day
+CloseUSD,Close price in terms of USD
